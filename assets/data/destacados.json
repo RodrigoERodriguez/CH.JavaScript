@@ -1,0 +1,213 @@
+{
+    "ingresos": [
+        {
+            "id":"hombre-05",
+            "titulo":"ONE MILLION",
+            "imagen":"../assets/images/hombre/ONE-MILLION.webp",
+            "categoria":{
+                "nombre":"Hombre",
+                "id":"hombre"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"mujer-05",
+            "titulo":"LIBRE EDP WOMAN",
+            "imagen":"../assets/images/mujer/LIBRE-EDP-WOMAN.webp",
+            "categoria":{
+                "nombre":"Mujer",
+                "id":"mujer"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"infancias-02",
+            "titulo":"KEEP WILD",
+            "imagen":"../assets/images/infancias/KEEP-WILD.webp",
+            "categoria":{
+                "nombre":"Infancias",
+                "id":"infancias"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"hogar-03",
+            "titulo":"MANGO MARACUYA",
+            "imagen":"../assets/images/hogar/MANGO-MARACUYA.webp",
+            "categoria":{
+                "nombre":"Hogar",
+                "id":"hogar"
+            },
+            "precio": 1000
+        }
+    ],
+    "hombre": [
+        {
+            "id":"hombre-05",
+            "titulo":"ONE MILLION",
+            "imagen":"../assets/images/hombre/ONE-MILLION.webp",
+            "categoria":{
+                "nombre":"Hombre",
+                "id":"hombre"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"hombre-06",
+            "titulo":"POLO BLUE",
+            "imagen":"../assets/images/hombre/POLO-BLUE-PARFUM.webp",
+            "categoria":{
+                "nombre":"Hombre",
+                "id":"hombre"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"hombre-07",
+            "titulo":"PURE XS MEN",
+            "imagen":"../assets/images/hombre/PURE-XS-MEN.webp",
+            "categoria":{
+                "nombre":"Hombre",
+                "id":"hombre"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"hombre-08",
+            "titulo":"SCANDAL",
+            "imagen":"../assets/images/hombre/SCANDAL.webp",
+            "categoria":{
+                "nombre":"Hombre",
+                "id":"hombre"
+            },
+            "precio": 1000
+        }
+    ],
+    "mujer": [
+        {
+            "id":"mujer-05",
+            "titulo":"LIBRE EDP WOMAN",
+            "imagen":"../assets/images/mujer/LIBRE-EDP-WOMAN.webp",
+            "categoria":{
+                "nombre":"Mujer",
+                "id":"mujer"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"mujer-06",
+            "titulo":"ONYX EDP",
+            "imagen":"../assets/images/mujer/ONYX-EDP.webp",
+            "categoria":{
+                "nombre":"Mujer",
+                "id":"mujer"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"mujer-07",
+            "titulo":"RED DOOR",
+            "imagen":"../assets/images/mujer/RED-DOOR.webp",
+            "categoria":{
+                "nombre":"Mujer",
+                "id":"mujer"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"mujer-08",
+            "titulo":"SI EDP",
+            "imagen":"../assets/images/mujer/SI-EDP.webp",
+            "categoria":{
+                "nombre":"Mujer",
+                "id":"mujer"
+            },
+            "precio": 1000
+        }
+    ],
+    "infancia": [
+        {
+            "id":"infancias-01",
+            "titulo":"BOSQUE ROJO",
+            "imagen":"../assets/images/infancias/BOSQUE-ROJO.webp",
+            "categoria":{
+                "nombre":"Infancias",
+                "id":"infancias"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"infancias-02",
+            "titulo":"KEEP WILD",
+            "imagen":"../assets/images/infancias/KEEP-WILD.webp",
+            "categoria":{
+                "nombre":"Infancias",
+                "id":"infancias"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"infancias-03",
+            "titulo":"KIDS AZUL",
+            "imagen":"../assets/images/infancias/KIDS-AZUL.webp",
+            "categoria":{
+                "nombre":"Infancias",
+                "id":"infancias"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"infancias-04",
+            "titulo":"KIDS VERDE",
+            "imagen":"../assets/images/infancias/KIDS-VERDE.webp",
+            "categoria":{
+                "nombre":"Infancias",
+                "id":"infancias"
+            },
+            "precio": 1000
+        }
+    ],
+    "hogar": [
+        {
+            "id":"hogar-01",
+            "titulo":"BAMBU LOTO",
+            "imagen":"../assets/images/hogar/BAMBU-LOTO.webp",
+            "categoria":{
+                "nombre":"Hogar",
+                "id":"hogar"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"hogar-02",
+            "titulo":"CEDRO",
+            "imagen":"../assets/images/hogar/CEDRO.webp",
+            "categoria":{
+                "nombre":"Hogar",
+                "id":"hogar"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"hogar-03",
+            "titulo":"MANGO MARACUYA",
+            "imagen":"../assets/images/hogar/MANGO-MARACUYA.webp",
+            "categoria":{
+                "nombre":"Hogar",
+                "id":"hogar"
+            },
+            "precio": 1000
+        },
+        {
+            "id":"hogar-04",
+            "titulo":"MANZANA CANELA",
+            "imagen":"../assets/images/hogar/MANZANA-CANELA.webp",
+            "categoria":{
+                "nombre":"Hogar",
+                "id":"hogar"
+            },
+            "precio": 1000
+        }
+    ]
+
+}

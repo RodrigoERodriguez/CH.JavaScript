@@ -1,0 +1,82 @@
+[
+    {
+        "id":"hombre-01",
+        "titulo":"212 MEN EDT",
+        "imagen":"../assets/images/hombre/212-MEN-EDT.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hombre-02",
+        "titulo":"CK EVERYONE",
+        "imagen":"../assets/images/hombre/CK-EVERYONE.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hombre-03",
+        "titulo":"INTENSE EDT",
+        "imagen":"../assets/images/hombre/INTENSE-EDT.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hombre-04",
+        "titulo":"LE MALE EDT",
+        "imagen":"../assets/images/hombre/LE-MALE-EDT.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hombre-05",
+        "titulo":"ONE MILLION",
+        "imagen":"../assets/images/hombre/ONE-MILLION.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hombre-06",
+        "titulo":"POLO BLUE",
+        "imagen":"../assets/images/hombre/POLO-BLUE-PARFUM.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hombre-07",
+        "titulo":"PURE XS MEN",
+        "imagen":"../assets/images/hombre/PURE-XS-MEN.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hombre-08",
+        "titulo":"SCANDAL",
+        "imagen":"../assets/images/hombre/SCANDAL.webp",
+        "categoria":{
+            "nombre":"Hombre",
+            "id":"hombre"
+        },
+        "precio": 1000
+    }
+]

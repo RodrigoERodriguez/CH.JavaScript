@@ -1,0 +1,82 @@
+[
+    {
+        "id":"mujer-01",
+        "titulo":"CODE WOMEN",
+        "imagen":"../assets/images/mujer/CODE-WOMEN.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"mujer-02",
+        "titulo":"FRESH GOLD",
+        "imagen":"../assets/images/mujer/FRESH-GOLD.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"mujer-03",
+        "titulo":"IRIS EDP",
+        "imagen":"../assets/images/mujer/IRIS-EDP.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"mujer-04",
+        "titulo":"KENZO AMOUR",
+        "imagen":"../assets/images/mujer/KENZO-AMOUR.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"mujer-05",
+        "titulo":"LIBRE EDP WOMAN",
+        "imagen":"../assets/images/mujer/LIBRE-EDP-WOMAN.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"mujer-06",
+        "titulo":"ONYX EDP",
+        "imagen":"../assets/images/mujer/ONYX-EDP.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"mujer-07",
+        "titulo":"RED DOOR",
+        "imagen":"../assets/images/mujer/RED-DOOR.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"mujer-08",
+        "titulo":"SI EDP",
+        "imagen":"../assets/images/mujer/SI-EDP.webp",
+        "categoria":{
+            "nombre":"Mujer",
+            "id":"mujer"
+        },
+        "precio": 1000
+    }
+]

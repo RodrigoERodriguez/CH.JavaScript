@@ -1,0 +1,82 @@
+[
+    {
+        "id":"hogar-01",
+        "titulo":"BAMBU LOTO",
+        "imagen":"../assets/images/hogar/BAMBU-LOTO.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hogar-02",
+        "titulo":"CEDRO",
+        "imagen":"../assets/images/hogar/CEDRO.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hogar-03",
+        "titulo":"MANGO MARACUYA",
+        "imagen":"../assets/images/hogar/MANGO-MARACUYA.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hogar-04",
+        "titulo":"MANZANA CANELA",
+        "imagen":"../assets/images/hogar/MANZANA-CANELA.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hogar-05",
+        "titulo":"NECTARINE",
+        "imagen":"../assets/images/hogar/NECTARINE.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hogar-06",
+        "titulo":"TEXTIL CITRUS",
+        "imagen":"../assets/images/hogar/TEXTIL-CITRUS.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hogar-07",
+        "titulo":"TEXTIL GARDENIA",
+        "imagen":"../assets/images/hogar/TEXTIL-GARDENIA.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"hogar-08",
+        "titulo":"VAINILLA DULCE",
+        "imagen":"../assets/images/hogar/VAINILLA-DULCE.webp",
+        "categoria":{
+            "nombre":"Hogar",
+            "id":"hogar"
+        },
+        "precio": 1000
+    }
+]

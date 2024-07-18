@@ -1,0 +1,82 @@
+[
+    {
+        "id":"infancias-01",
+        "titulo":"BOSQUE ROJO",
+        "imagen":"../assets/images/infancias/BOSQUE-ROJO.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"infancias-02",
+        "titulo":"KEEP WILD",
+        "imagen":"../assets/images/infancias/KEEP-WILD.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"infancias-03",
+        "titulo":"KIDS AZUL",
+        "imagen":"../assets/images/infancias/KIDS-AZUL.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"infancias-04",
+        "titulo":"KIDS VERDE",
+        "imagen":"../assets/images/infancias/KIDS-VERDE.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"infancias-05",
+        "titulo":"LITTLE BOY",
+        "imagen":"../assets/images/infancias/LITTLE-BOY.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"infancias-06",
+        "titulo":"LITTLE GIRLS",
+        "imagen":"../assets/images/infancias/LITTLE-GIRLS.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"infancias-07",
+        "titulo":"PETITE PRINCE",
+        "imagen":"../assets/images/infancias/PETIT-PRINCE.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"infancias-08",
+        "titulo":"TOUS BABY",
+        "imagen":"../assets/images/infancias/TOUS-BABY.webp",
+        "categoria":{
+            "nombre":"Infancias",
+            "id":"infancias"
+        },
+        "precio": 1000
+    }
+]
